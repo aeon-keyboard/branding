@@ -1,0 +1,34 @@
+# Illustrator and Photoshop temporary and cache files
+*.tmp
+*.bak
+*.backup
+*.psb
+*.log
+
+# Adobe cache files
+.DS_Store
+__MACOSX/
+*.db
+*.lrdata
+*.bridgecache
+*.BridgeSort
+*.metadata
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local backup and export folders
+/export/
+/build/
+/output/
+/temp/
+/tmp/
+
+# auto-generated preview files
+*.png.preview
+
+# Unnecessary Adobe lock files
+*.idlk
+*.lock
