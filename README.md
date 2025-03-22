@@ -36,11 +36,11 @@ A logo foi cuidadosamente desenhada com base na proporção áurea (Golden Ratio
 
 ### Cores Base da Identidade Visual
 
-- <span style="display:inline-block;width:16px;height:16px;background-color:#0D0D0D;border:1px solid #ccc;margin-right:8px;"></span> **#0D0D0D — Preto Profundo**: transmite poder, elegância e modernidade.
-- <span style="display:inline-block;width:16px;height:16px;background-color:#FFFFFF;border:1px solid #ccc;margin-right:8px;"></span> **#FFFFFF — Branco Puro**: representa clareza, simplicidade e contraste ideal.
-- <span style="display:inline-block;width:16px;height:16px;background-color:#F2F1EF;border:1px solid #ccc;margin-right:8px;"></span> **#F2F1EF — Branco Quente**: cor de fundo ideal que adiciona sofisticação sem perder a leveza.
-- <span style="display:inline-block;width:16px;height:16px;background-color:#FFD700;border:1px solid #ccc;margin-right:8px;"></span> **#FFD700 — Dourado Clássico**: reforça a ideia de luxo e destaque premium.
-- <span style="display:inline-block;width:16px;height:16px;background-color:#CCB338;border:1px solid #ccc;margin-right:8px;"></span> **#CCB338 — Dourado Envelhecido**: para detalhes mais suaves e acabamento refinado.
+- <img src="assets/black.svg" width="16" height="16"/> **#0D0D0D — Preto Profundo**: transmite poder, elegância e modernidade.
+- <img src="assets/white.svg" width="16" height="16"/> **#FFFFFF — Branco Puro**: representa clareza, simplicidade e contraste ideal.
+- <img src="assets/base_white.svg" width="16" height="16"/> **#F2F1EF — Branco Quente**: cor de fundo ideal que adiciona sofisticação sem perder a leveza.
+- <img src="assets/gold.svg" width="16" height="16"/> **#FFD700 — Dourado Clássico**: reforça a ideia de luxo e destaque premium.
+- <img src="assets/dark_gold.svg" width="16" height="16"/> **#CCB338 — Dourado Envelhecido**: para detalhes mais suaves e acabamento refinado.
 
 A paleta de cores se adaptam tanto a contextos claros quanto escuros, garantindo versatilidade.
 
